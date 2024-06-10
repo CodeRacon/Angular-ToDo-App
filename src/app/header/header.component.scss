@@ -22,15 +22,19 @@ header {
   }
 
   h1 {
-    font-size: 1.25rem;
+    font-size: 1.75rem;
     margin: 0;
     padding: 0;
   }
 
   p {
     margin: 0;
-    font-size: 0.8rem;
+    font-size: 0.875rem;
     text-wrap: balance;
+  }
+
+  span {
+    color: #62d0ff;
   }
 }
 
