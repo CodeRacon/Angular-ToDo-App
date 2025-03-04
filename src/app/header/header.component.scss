@@ -15,7 +15,8 @@ header {
   color: #2b2146;
 
   img {
-    width: 3.5rem;
+    width: 4rem;
+    margin-bottom: -1rem;
     object-fit: contain;
     filter: invert(11%) sepia(25%) saturate(1954%) hue-rotate(220deg)
       brightness(99%) contrast(92%);
